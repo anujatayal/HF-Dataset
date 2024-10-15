@@ -1,0 +1,11 @@
+[Patient] I've been diagnosed with heart failure and I'm a little unsure of what I should do. I've heard people talking about the importance of water. Can you tell me a bit more about that?
+
+[Healthcare Specialist] Absolutely, it's important to understand your condition and I'm here to help you along the way. Drinking water, in the correct amount, is a key component to help your heart function properly. It keeps your blood thin and flowing, which reduces the stress on your heart.
+
+[Patient] So, I should be drinking more water then?
+
+[Healthcare Specialist] Not necessarily, too much water can also pose a problem. You see, with heart failure your body could have a harder time getting rid of excess water, so it can be a delicate balance. It's crucial to aim for the right amount, which is typically about eight 8-ounce glasses of water a day unless given different instructions by a health professional.
+
+[Patient] I see, I didn't know that. How will I know if I'm retaining too much water?
+
+[Healthcare Specialist] That's a great question. Some signs of water retention are swollen legs, ankles, and feet, shortness of breath, and sudden weight gain. If you notice any of these symptoms, it's important to contact your healthcare provider right away. Walking, a balanced diet, and prescribed heart medications can also help with fluid management in your body.

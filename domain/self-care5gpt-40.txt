@@ -1,0 +1,11 @@
+[Patient] I've been diagnosed with heart failure and I'm a bit scared. What can I do to take care of myself?
+
+[Healthcare Specialist] I understand your concerns. It's important to remember that self-care plays a crucial role in managing heart failure. One of the first steps is to monitor your weight daily. Sudden weight gain can be a sign of fluid retention, a common issue in heart failure.
+
+[Patient] What about my diet? Should I make any changes?
+
+[Healthcare Specialist] Absolutely. A heart-healthy diet is essential. Try to limit your salt intake as it can cause fluid accumulation. Also, include more fruits, vegetables, and lean proteins in your diet. 
+
+[Patient] I've heard about exercise too. Is it safe for me?
+
+[Healthcare Specialist] Yes, regular physical activity can strengthen your heart and improve your overall health. However, it's important to start slow and gradually increase your activity level. Always listen to your body and rest if you feel tired.

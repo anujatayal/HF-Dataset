@@ -1,0 +1,11 @@
+[Patient] I've been having trouble sleeping lately. Is this related to my heart failure?
+
+[Healthcare Specialist] Yes, it can be. Heart failure can sometimes lead to sleep problems due to breathing issues or anxiety. A good night's sleep is important for heart health because it allows your heart and blood vessels to rest and repair.
+
+[Patient] What can I do to improve my sleep?
+
+[Healthcare Specialist] Regular exercise can help, but make sure it's at least a few hours before bedtime. Also, try to establish a regular sleep schedule and create a calm, quiet sleep environment. 
+
+[Patient] Does poor sleep make my heart failure worse?
+
+[Healthcare Specialist] Poor sleep can indeed exacerbate heart failure symptoms. It can increase blood pressure and heart rate, which may put more strain on your heart. So, getting quality sleep is an important part of managing your heart failure.

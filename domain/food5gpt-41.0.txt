@@ -1,0 +1,11 @@
+[Patient] I'm finding managing my diet quite challenging since being diagnosed with heart failure. What should I be focusing on?
+
+[Healthcare Specialist] I understand your concerns, it can initially be overwhelming. It's important to remember that food plays a crucial role in managing heart failure. Primarily, you should focus on less sodium intake, as it can make your body retain water and could cause strain on your heart.
+
+[Patient] What about fat and cholesterol? Are they bad?
+
+[Healthcare Specialist] Not all fats are bad. You need to limit intake of saturated and trans fats as they raise your blood cholesterol levels. Healthy fats such as monounsaturated and polyunsaturated in moderation, can help reduce your risk of heart disease. 
+
+[Patient] Should I eat more fruits and vegetables?
+
+[Healthcare Specialist] Absolutely, fresh fruits and vegetables contain multiple heart-health-friendly nutrients. They are also a great source of dietary fiber which can help reduce levels of LDL cholesterol, commonly known as "bad" cholesterol. Just be cautious about canned or processed varieties as they may have added sodium.

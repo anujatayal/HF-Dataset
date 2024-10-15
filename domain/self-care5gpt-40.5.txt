@@ -1,0 +1,11 @@
+[Patient] I've been diagnosed with heart failure and I'm scared. What can I do to take care of myself?
+
+[Healthcare Specialist] I understand your fears, but remember, heart failure is a condition that can be managed. One of the key aspects is self-care. This includes a healthy diet, regular physical activity, and monitoring your symptoms. 
+
+[Patient] What kind of diet should I follow?
+
+[Healthcare Specialist] A heart-healthy diet is important. This means reducing your salt and fluid intake, as these can cause your body to hold onto extra water, which can make your heart work harder. Also, eat more fruits, vegetables, and whole grains while limiting unhealthy fats.
+
+[Patient] And what about exercise? I'm afraid it might strain my heart.
+
+[Healthcare Specialist] Regular, moderate exercise can actually help strengthen your heart. Start slow, perhaps with walking or swimming, and gradually increase as your strength improves. But always listen to your body and rest if you feel tired or unwell.
